@@ -1,1 +1,2 @@
 # odin-landing-page
+This project is of course from TOP. Learning Flexbox was tough but I'm slowly catching on the more I use it. I feel that once I finish this project I will have a better grasp of it.
